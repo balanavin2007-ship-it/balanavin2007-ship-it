@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" alt="Balanavin S — GitHub profile banner" width="100%">
+<img src="profile-banner.png" alt="Balanavin S — GitHub profile banner" width="100%">
 
 </div>
 
